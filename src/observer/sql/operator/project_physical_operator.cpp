@@ -8,9 +8,7 @@ EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT,
 MERCHANTABILITY OR FIT FOR A PARTICULAR PURPOSE.
 See the Mulan PSL v2 for more details. */
 
-//
-// Created by WangYunlai on 2022/07/01.
-//
+
 
 #include "sql/operator/project_physical_operator.h"
 #include "common/log/log.h"
